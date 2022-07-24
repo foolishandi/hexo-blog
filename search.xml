@@ -20,10 +20,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
-      </tags>
+  </entry>
+  <entry>
+    <title>mew new post</title>
+    <url>/hexo-blog/2022/07/24/mew-new-post/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>这是一个测试</title>
@@ -77,13 +78,5 @@
       <categories>
         <category>QQ</category>
       </categories>
-  </entry>
-  <entry>
-    <title>mew new post</title>
-    <url>/hexo-blog/2022/07/24/mew-new-post/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>测试</tag>
-      </tags>
   </entry>
 </search>
